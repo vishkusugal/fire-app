@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AMZNMediaPlayerComponent" />
+            <option value="$PROJECT_DIR$/../AdsInterface" />
+            <option value="$PROJECT_DIR$/../AnalyticsInterface" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../AuthInterface" />
+            <option value="$PROJECT_DIR$/../ContentBrowser" />
+            <option value="$PROJECT_DIR$/../ContentModel" />
+            <option value="$PROJECT_DIR$/../DataLoader" />
+            <option value="$PROJECT_DIR$/../DynamicParser" />
+            <option value="$PROJECT_DIR$/../LoggerAnalyticsComponent" />
+            <option value="$PROJECT_DIR$/../ModuleInterface" />
+            <option value="$PROJECT_DIR$/../PassThroughAdsComponent" />
+            <option value="$PROJECT_DIR$/../PassThroughLoginComponent" />
+            <option value="$PROJECT_DIR$/../PurchaseInterface" />
+            <option value="$PROJECT_DIR$/../TVUIComponent/Calligraphy" />
+            <option value="$PROJECT_DIR$/../TVUIComponent/lib" />
+            <option value="$PROJECT_DIR$/../UAMP" />
+            <option value="$PROJECT_DIR$/../Utils" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
